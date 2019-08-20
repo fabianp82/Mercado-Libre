@@ -1,0 +1,61 @@
+C:\Documents and Settings\wnascimento\Desktop\net-sdk-master\SDKTest\bin\Debug\SDKTest.dll
+C:\Documents and Settings\wnascimento\Desktop\net-sdk-master\SDKTest\bin\Debug\SDKTest.pdb
+C:\Documents and Settings\wnascimento\Desktop\net-sdk-master\SDKTest\bin\Debug\net-sdk.dll
+C:\Documents and Settings\wnascimento\Desktop\net-sdk-master\SDKTest\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\wnascimento\Desktop\net-sdk-master\SDKTest\bin\Debug\RestSharp.dll
+C:\Documents and Settings\wnascimento\Desktop\net-sdk-master\SDKTest\bin\Debug\Newtonsoft.Json.dll
+C:\Documents and Settings\wnascimento\Desktop\net-sdk-master\SDKTest\bin\Debug\net-sdk.pdb
+C:\Documents and Settings\wnascimento\Desktop\net-sdk-master\SDKTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\wnascimento\Desktop\net-sdk-master\SDKTest\obj\Debug\SDKTest.dll
+C:\Documents and Settings\wnascimento\Desktop\net-sdk-master\SDKTest\obj\Debug\SDKTest.pdb
+C:\Users\Win 10\Downloads\net-sdk-master\net-sdk-master\SDKTest\obj\Debug\SDKTest.csprojResolveAssemblyReference.cache
+C:\Users\Win 10\Downloads\net-sdk-master\net-sdk-master\SDKTest\obj\Debug\SDKTest.dll
+C:\Users\Win 10\Downloads\net-sdk-master\net-sdk-master\SDKTest\obj\Debug\SDKTest.pdb
+C:\Users\Win 10\Downloads\net-sdk-master\net-sdk-master\SDKTest\bin\Debug\SDKTest.dll
+C:\Users\Win 10\Downloads\net-sdk-master\net-sdk-master\SDKTest\bin\Debug\SDKTest.pdb
+C:\Users\Win 10\Downloads\net-sdk-master\net-sdk-master\SDKTest\bin\Debug\nunit.framework.dll
+C:\Users\Win 10\Downloads\net-sdk-master\net-sdk-master\SDKTest\bin\Debug\RestSharp.dll
+C:\Users\Win 10\Downloads\net-sdk-master\net-sdk-master\SDKTest\bin\Debug\net-sdk.dll
+C:\Users\Win 10\Downloads\net-sdk-master\net-sdk-master\SDKTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Win 10\Downloads\net-sdk-master\net-sdk-master\SDKTest\bin\Debug\net-sdk.pdb
+C:\Users\Win 10\Documents\arquivos_dotnet\net-sdk-master\SDKTest\bin\Debug\SDKTest.dll
+C:\Users\Win 10\Documents\arquivos_dotnet\net-sdk-master\SDKTest\bin\Debug\SDKTest.pdb
+C:\Users\Win 10\Documents\arquivos_dotnet\net-sdk-master\SDKTest\bin\Debug\net-sdk.dll
+C:\Users\Win 10\Documents\arquivos_dotnet\net-sdk-master\SDKTest\bin\Debug\nunit.framework.dll
+C:\Users\Win 10\Documents\arquivos_dotnet\net-sdk-master\SDKTest\bin\Debug\RestSharp.dll
+C:\Users\Win 10\Documents\arquivos_dotnet\net-sdk-master\SDKTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Win 10\Documents\arquivos_dotnet\net-sdk-master\SDKTest\bin\Debug\net-sdk.pdb
+C:\Users\Win 10\Documents\arquivos_dotnet\net-sdk-master\SDKTest\obj\Debug\SDKTest.csprojResolveAssemblyReference.cache
+C:\Users\Win 10\Documents\arquivos_dotnet\net-sdk-master\SDKTest\obj\Debug\SDKTest.dll
+C:\Users\Win 10\Documents\arquivos_dotnet\net-sdk-master\SDKTest\obj\Debug\SDKTest.pdb
+D:\Trabajos\Mastersoft\MercadoLibre\net-sdk-master\SDKTest\bin\Debug\NUnit3.TestAdapter.dll
+D:\Trabajos\Mastersoft\MercadoLibre\net-sdk-master\SDKTest\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Trabajos\Mastersoft\MercadoLibre\net-sdk-master\SDKTest\bin\Debug\nunit.engine.dll
+D:\Trabajos\Mastersoft\MercadoLibre\net-sdk-master\SDKTest\bin\Debug\nunit.engine.api.dll
+D:\Trabajos\Mastersoft\MercadoLibre\net-sdk-master\SDKTest\bin\Debug\Mono.Cecil.dll
+D:\Trabajos\Mastersoft\MercadoLibre\net-sdk-master\SDKTest\bin\Debug\SDKTest.dll
+D:\Trabajos\Mastersoft\MercadoLibre\net-sdk-master\SDKTest\bin\Debug\SDKTest.pdb
+D:\Trabajos\Mastersoft\MercadoLibre\net-sdk-master\SDKTest\bin\Debug\net-sdk.dll
+D:\Trabajos\Mastersoft\MercadoLibre\net-sdk-master\SDKTest\bin\Debug\nunit.framework.dll
+D:\Trabajos\Mastersoft\MercadoLibre\net-sdk-master\SDKTest\bin\Debug\RestSharp.dll
+D:\Trabajos\Mastersoft\MercadoLibre\net-sdk-master\SDKTest\bin\Debug\Newtonsoft.Json.dll
+D:\Trabajos\Mastersoft\MercadoLibre\net-sdk-master\SDKTest\bin\Debug\net-sdk.pdb
+D:\Trabajos\Mastersoft\MercadoLibre\net-sdk-master\SDKTest\obj\Debug\SDKTest.csprojResolveAssemblyReference.cache
+D:\Trabajos\Mastersoft\MercadoLibre\net-sdk-master\SDKTest\obj\Debug\SDKTest.csproj.CoreCompileInputs.cache
+D:\Trabajos\Mastersoft\MercadoLibre\net-sdk-master\SDKTest\obj\Debug\SDKTest.dll
+D:\Trabajos\Mastersoft\MercadoLibre\net-sdk-master\SDKTest\obj\Debug\SDKTest.pdb
+D:\Trabajo\MercadoLibre\net-sdk-master\SDKTest\bin\Debug\NUnit3.TestAdapter.dll
+D:\Trabajo\MercadoLibre\net-sdk-master\SDKTest\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Trabajo\MercadoLibre\net-sdk-master\SDKTest\bin\Debug\nunit.engine.dll
+D:\Trabajo\MercadoLibre\net-sdk-master\SDKTest\bin\Debug\nunit.engine.api.dll
+D:\Trabajo\MercadoLibre\net-sdk-master\SDKTest\bin\Debug\Mono.Cecil.dll
+D:\Trabajo\MercadoLibre\net-sdk-master\SDKTest\bin\Debug\SDKTest.dll
+D:\Trabajo\MercadoLibre\net-sdk-master\SDKTest\bin\Debug\SDKTest.pdb
+D:\Trabajo\MercadoLibre\net-sdk-master\SDKTest\bin\Debug\net-sdk.dll
+D:\Trabajo\MercadoLibre\net-sdk-master\SDKTest\bin\Debug\nunit.framework.dll
+D:\Trabajo\MercadoLibre\net-sdk-master\SDKTest\bin\Debug\RestSharp.dll
+D:\Trabajo\MercadoLibre\net-sdk-master\SDKTest\bin\Debug\Newtonsoft.Json.dll
+D:\Trabajo\MercadoLibre\net-sdk-master\SDKTest\bin\Debug\net-sdk.pdb
+D:\Trabajo\MercadoLibre\net-sdk-master\SDKTest\obj\Debug\SDKTest.csprojResolveAssemblyReference.cache
+D:\Trabajo\MercadoLibre\net-sdk-master\SDKTest\obj\Debug\SDKTest.dll
+D:\Trabajo\MercadoLibre\net-sdk-master\SDKTest\obj\Debug\SDKTest.pdb

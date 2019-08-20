@@ -1,0 +1,50 @@
+C:\Documents and Settings\wnascimento\Desktop\net-sdk-master\SDK\bin\Debug\net-sdk.dll
+C:\Documents and Settings\wnascimento\Desktop\net-sdk-master\SDK\bin\Debug\net-sdk.pdb
+C:\Documents and Settings\wnascimento\Desktop\net-sdk-master\SDK\bin\Debug\Newtonsoft.Json.dll
+C:\Documents and Settings\wnascimento\Desktop\net-sdk-master\SDK\bin\Debug\RestSharp.dll
+C:\Documents and Settings\wnascimento\Desktop\net-sdk-master\SDK\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\wnascimento\Desktop\net-sdk-master\SDK\obj\Debug\net-sdk.dll
+C:\Documents and Settings\wnascimento\Desktop\net-sdk-master\SDK\obj\Debug\net-sdk.pdb
+C:\Users\Win 10\Downloads\net-sdk-master\net-sdk-master\SDK\bin\Debug\net-sdk.dll
+C:\Users\Win 10\Downloads\net-sdk-master\net-sdk-master\SDK\bin\Debug\net-sdk.pdb
+C:\Users\Win 10\Downloads\net-sdk-master\net-sdk-master\SDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Win 10\Downloads\net-sdk-master\net-sdk-master\SDK\bin\Debug\RestSharp.dll
+C:\Users\Win 10\Downloads\net-sdk-master\net-sdk-master\SDK\obj\Debug\net-sdk.dll
+C:\Users\Win 10\Downloads\net-sdk-master\net-sdk-master\SDK\obj\Debug\net-sdk.pdb
+C:\Users\Win 10\Downloads\net-sdk-master\net-sdk-master\SDK\obj\Debug\SDK.csprojResolveAssemblyReference.cache
+C:\Users\Win 10\Documents\arquivos_dotnet\net-sdk-master\SDK\bin\Debug\net-sdk.dll
+C:\Users\Win 10\Documents\arquivos_dotnet\net-sdk-master\SDK\bin\Debug\net-sdk.pdb
+C:\Users\Win 10\Documents\arquivos_dotnet\net-sdk-master\SDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Win 10\Documents\arquivos_dotnet\net-sdk-master\SDK\bin\Debug\RestSharp.dll
+C:\Users\Win 10\Documents\arquivos_dotnet\net-sdk-master\SDK\bin\Release\net-sdk.dll
+C:\Users\Win 10\Documents\arquivos_dotnet\net-sdk-master\SDK\bin\Release\net-sdk.pdb
+C:\Users\Win 10\Documents\arquivos_dotnet\net-sdk-master\SDK\bin\Release\Newtonsoft.Json.dll
+C:\Users\Win 10\Documents\arquivos_dotnet\net-sdk-master\SDK\bin\Release\RestSharp.dll
+C:\Users\Win 10\Documents\arquivos_dotnet\net-sdk-master\SDK\obj\Debug\SDK.csprojResolveAssemblyReference.cache
+C:\Users\Win 10\Documents\arquivos_dotnet\net-sdk-master\SDK\obj\Debug\net-sdk.dll
+C:\Users\Win 10\Documents\arquivos_dotnet\net-sdk-master\SDK\obj\Debug\net-sdk.pdb
+D:\Trabajos\Mastersoft\MercadoLibre\net-sdk-master\SDK\bin\Release\NUnit3.TestAdapter.dll
+D:\Trabajos\Mastersoft\MercadoLibre\net-sdk-master\SDK\bin\Release\NUnit3.TestAdapter.pdb
+D:\Trabajos\Mastersoft\MercadoLibre\net-sdk-master\SDK\bin\Release\nunit.engine.dll
+D:\Trabajos\Mastersoft\MercadoLibre\net-sdk-master\SDK\bin\Release\nunit.engine.api.dll
+D:\Trabajos\Mastersoft\MercadoLibre\net-sdk-master\SDK\bin\Release\Mono.Cecil.dll
+D:\Trabajos\Mastersoft\MercadoLibre\net-sdk-master\SDK\bin\Release\net-sdk.dll
+D:\Trabajos\Mastersoft\MercadoLibre\net-sdk-master\SDK\bin\Release\net-sdk.pdb
+D:\Trabajos\Mastersoft\MercadoLibre\net-sdk-master\SDK\bin\Release\Newtonsoft.Json.dll
+D:\Trabajos\Mastersoft\MercadoLibre\net-sdk-master\SDK\bin\Release\RestSharp.dll
+D:\Trabajos\Mastersoft\MercadoLibre\net-sdk-master\SDK\obj\Debug\SDK.csprojResolveAssemblyReference.cache
+D:\Trabajos\Mastersoft\MercadoLibre\net-sdk-master\SDK\obj\Debug\SDK.csproj.CoreCompileInputs.cache
+D:\Trabajos\Mastersoft\MercadoLibre\net-sdk-master\SDK\obj\Debug\net-sdk.dll
+D:\Trabajos\Mastersoft\MercadoLibre\net-sdk-master\SDK\obj\Debug\net-sdk.pdb
+D:\Trabajo\MercadoLibre\net-sdk-master\SDK\bin\Release\NUnit3.TestAdapter.dll
+D:\Trabajo\MercadoLibre\net-sdk-master\SDK\bin\Release\NUnit3.TestAdapter.pdb
+D:\Trabajo\MercadoLibre\net-sdk-master\SDK\bin\Release\nunit.engine.dll
+D:\Trabajo\MercadoLibre\net-sdk-master\SDK\bin\Release\nunit.engine.api.dll
+D:\Trabajo\MercadoLibre\net-sdk-master\SDK\bin\Release\Mono.Cecil.dll
+D:\Trabajo\MercadoLibre\net-sdk-master\SDK\bin\Release\net-sdk.dll
+D:\Trabajo\MercadoLibre\net-sdk-master\SDK\bin\Release\net-sdk.pdb
+D:\Trabajo\MercadoLibre\net-sdk-master\SDK\bin\Release\Newtonsoft.Json.dll
+D:\Trabajo\MercadoLibre\net-sdk-master\SDK\bin\Release\RestSharp.dll
+D:\Trabajo\MercadoLibre\net-sdk-master\SDK\obj\Debug\SDK.csprojResolveAssemblyReference.cache
+D:\Trabajo\MercadoLibre\net-sdk-master\SDK\obj\Debug\net-sdk.dll
+D:\Trabajo\MercadoLibre\net-sdk-master\SDK\obj\Debug\net-sdk.pdb
